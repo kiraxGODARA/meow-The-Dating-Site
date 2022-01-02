@@ -1,0 +1,79 @@
+.h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#title{
+    background: #ff4c68;
+    color: #fff;
+    padding:0%
+}
+.container-fluid{
+    padding: 2% 2% 0% 2%;
+}
+.navbar{
+    padding: 0rem 0rem 5rem;
+}
+.navbar-nav{
+    margin-left: auto;
+    font-size: 1.4rem;
+}
+.navbar-brand{
+    font: ubuntu;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+h1{
+    
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 15rem;
+}
+.buttonspos{
+    text-align: center;
+}
+p{
+    color:#8f8f8f;
+}
+#features{
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;;
+    padding-bottom: 7%;
+    padding-top: 7%;
+}
+
+.icon{
+    color:#ef8172;
+    padding-bottom: 7%;
+}
+.icon:hover{
+    color:#ff4c68;
+}
+#testimonials{
+    text-align: center;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    background: #fa687e;
+    color:#fff
+
+}
+#carouselExampleInterval{
+    padding-left: 15%;
+    padding-right: 15%;
+
+}
+.testimonial_image{
+    margin-top: 3%;
+    margin-right:3% ;
+    width:10%;
+    border-radius: 50%;
+    border-style: outset;
+    border-color: #fff;
+    padding: 5px;
+}
+html{
+    height: 100%
+}
+body{
+    min-height: 100%;
+}
